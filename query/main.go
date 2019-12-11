@@ -10,6 +10,7 @@ import (
 	"github.com/syukrimullia/hello_go_gql/query/src"
 )
 
+//source: https://tutorialedge.net/golang/go-graphql-beginners-tutorial/
 func main() {
 	schema := src.RegisterTypes()
 
